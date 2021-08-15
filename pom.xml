@@ -8,7 +8,7 @@
     <artifactId>leon-ble</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <description>蓝牙相关的功能</description>
+    <description>低功耗蓝牙相关的功能</description>
 
     <modules>
         <module>leon-ble-usb-pc</module>
